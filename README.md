@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Madeliyen/Testimonial-section-1](https://github.com/Madeliyen/Testimonial-section-1)
+- Live Site URL: [https://madeliyen.github.io/Testimonial-section-1/](https://madeliyen.github.io/Testimonial-section-1/)
 
 ## My process
 
